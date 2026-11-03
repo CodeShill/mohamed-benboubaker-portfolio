@@ -1,0 +1,4 @@
+amazon_sp_config.php
+*.log
+*_state.json
+.env
